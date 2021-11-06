@@ -8,9 +8,6 @@ body {
 }
 
 /* nav bar styling*/
-header {
-
-}
 
 header nav ul {
     display: flex;
@@ -27,4 +24,16 @@ header a {
     color: #d1c6b3;
     text-decoration: none;
     font-size: 20px;
+}
+
+/*hero section*/
+
+.hero-image {
+    background-image: url("assets/images/hero-img.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 500px;
 }
