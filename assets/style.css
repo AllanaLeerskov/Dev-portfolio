@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* nav bar styling*/
+header {
+
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    background-color: #070c0e;
+    padding: 20px 35px;
+  }
+
+
+header a {
+    color: #d1c6b3;
+    text-decoration: none;
+    font-size: 20px;
+}
