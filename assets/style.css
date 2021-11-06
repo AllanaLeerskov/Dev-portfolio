@@ -29,11 +29,38 @@ header a {
 /*hero section*/
 
 .hero-image {
-    background-image: url("assets/images/hero-img.jpg");
+    background-image: url(../assets/images/hero-img.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    height: 500px;
+    height: 500px; 
+}
+
+#about-me {
+    color: #d1c6b3;
+    margin: 0px;
+    display: flex;
+}
+
+.hero-content {
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+    text-align: center;
+    flex-direction: column;
+}
+
+.hero-content h1 {
+    font-size: 75px;
+}
+
+.hero-content h2 {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 0%;
+    margin: -15px 0px 15px 228px;
+    /* text-align: right; */
 }
