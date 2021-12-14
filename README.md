@@ -11,7 +11,7 @@ A visual showcase of my work as a web designer
 ## Website
 https://allanaleerskov.github.io/dev-portfolio/
 
-![Webpage Snapshot](assets/Images/screen-shot.png)
+![Webpage Snapshot](assets/images/screen-shot.png)
 
 ## Contribution
 Made with ❤️ by Allana
