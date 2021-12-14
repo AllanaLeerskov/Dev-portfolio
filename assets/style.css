@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow: auto;
 }
 body {
     font-family: 'Times New Roman', Times, serif;
@@ -102,6 +103,7 @@ header a {
     margin: 50px 20px 25px 100px;
 }
 
+
 /* Contact section */
 #contact-info {
     color: #d1c6b3;
@@ -147,4 +149,13 @@ footer ul {
     color: #d1c6b3;
     font-size: 15px;
   }
-  @media print, screen and (min-width: 40em)
+ 
+  @media only screen and (min-width: 600px)
+     {
+        #projects {
+            justify-content: center;
+        }
+       #contact-info {
+            justify-content: center;
+        }
+    }

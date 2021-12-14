@@ -1,3 +1,17 @@
-# dev-portfolio
+# Web Designer Portfolio
 
-A software developer's portfolio to showcase completed projects and deployed applications.
+## Purpose
+A visual showcase of my work as a web designer
+
+## Built With
+* HTML
+* CSS
+
+
+## Website
+https://allanaleerskov.github.io/dev-portfolio/
+
+![Webpage Snapshot](assets/Images/screen-shot.png)
+
+## Contribution
+Made with ❤️ by Allana
